@@ -1,16 +1,13 @@
 @media only screen and (max-width: 1000px) {
-    .bottom-cloud{
+    .bottom-cloud {
         position: absolute;
-        left: 36.875rem;
-        bottom: 40rem;
-    } 
-    
-    .top-cloud{
-        position: absolute;
-        right: 15.875rem;
-        top: 60 0px;
+        left: 2.875rem;
+        bottom: 33rem;
     }
-
+    .top-cloud {
+        position: absolute;
+        right: 3.875rem;        
+     }
     .container-top{
         padding-top: 1.5rem;
     }
