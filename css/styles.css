@@ -44,7 +44,13 @@ h3{
 }
 
 .imgPP{
-    border-radius: 100%;
+    border-radius: 90%;
+    width: 200px;
+    height: 200px;
+    margin-top: 25px;
+}
+
+.imgAdapt{    
     width: 200px;
     height: 200px;
     margin-top: 25px;
