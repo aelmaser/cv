@@ -1,3 +1,17 @@
+@media only screen and (max-width: 600px) {
+    .bottom-cloud{
+        position: absolute;
+        left: 15.875rem;
+        bottom: 15rem;
+    } 
+    
+    .top-cloud{
+        position: absolute;
+        right: 21.875rem;
+        top: 10 0px;
+    }
+  }
+
 body{
 margin: 0px;
 text-align: center;
@@ -59,3 +73,4 @@ h3{
 .subh2{
     font-size: 1.5rem;
 }
+
