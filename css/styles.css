@@ -1,3 +1,11 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    background-color: #E4F9F5;
+    font-family: verdana, sans-serif;
+    }
+
 @media only screen and (max-width: 600px) {
     .bottom-cloud {
         position: absolute;
@@ -7,13 +15,10 @@
     .top-cloud {
         position: absolute;
         right: 3.875rem;        
-     }    
-}
-body{
-margin: 0px;
-text-align: center;
-background-color: #E4F9F5;
-font-family: verdana, sans-serif;
+    }
+    .container-top{
+        padding-top: 3.5rem;
+    }    
 }
 
 h1{    
