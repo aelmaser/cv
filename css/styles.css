@@ -1,3 +1,21 @@
+@media only screen and (max-width: 1000px) {
+    .bottom-cloud{
+        position: absolute;
+        left: 36.875rem;
+        bottom: 40rem;
+    } 
+    
+    .top-cloud{
+        position: absolute;
+        right: 15.875rem;
+        top: 60 0px;
+    }
+
+    .container-top{
+        padding-top: 1.5rem;
+    }
+  }
+
 body{
 margin: 0px;
 text-align: center;
@@ -34,12 +52,12 @@ h3{
 .bottom-cloud{
     position: absolute;
     left: 21.875rem;
-    bottom: 19rem;
+    bottom: 9rem;
 } 
 
 .top-cloud{
     position: absolute;
-    right: 6.875rem;
+    right: 21.875rem;
     top: 10 0px;
 }
 
