@@ -20,7 +20,7 @@ h3{
 }
 
 .container-top{
-    padding-top: 200px;
+    padding-top: 12.5rem;
 }
 
 .container-middle{
@@ -33,27 +33,27 @@ h3{
 
 .bottom-cloud{
     position: absolute;
-    left: 350px;
-    bottom: 150px;
+    left: 21.875rem;
+    bottom: 9rem;
 } 
 
 .top-cloud{
     position: absolute;
-    right: 350px;
+    right: 21.875rem;
     top: 10 0px;
 }
 
 .imgPP{
     border-radius: 90%;
-    width: 200px;
-    height: 200px;
-    margin-top: 25px;
+    width: 12.5rem;
+    height: 12.5rem;
+    margin-top: 1.563rem;
 }
 
 .imgAdapt{    
-    width: 200px;
-    height: 200px;
-    margin-top: 25px;
+    width: 12.5rem;
+    height: 12.5rem;
+    margin-top: 1.563rem;
 }
 
 .subh2{
