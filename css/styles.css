@@ -5,7 +5,7 @@ body{
     background-color: #E4F9F5;
     font-family: verdana, sans-serif;
     }
-
+/*
 @media only screen and (max-width: 450px) {
 
     body{
@@ -40,7 +40,7 @@ body{
         padding-top: 3.5rem;
     }    
 }
-
+*/
 h1{    
     margin: 50px auto 0 auto;    
     font-size: 5.625rem;
@@ -56,7 +56,8 @@ h3{
 }
 
 .container-top{
-    padding-top: 12.5rem;
+   /* padding-top: 12.5rem;*/
+   padding-top:8%;
 }
 
 .container-middle{
@@ -69,14 +70,18 @@ h3{
 
 .bottom-cloud{
     position: absolute;
-    left: 21.875rem;
-    bottom: 9rem;
+    /*left: 21.875rem;
+    bottom: 9rem;*/
+    left: 33%;
+    bottom: 40%;
 } 
 
 .top-cloud{
     position: absolute;
-    right: 21.875rem;
-    top: 10 0px;
+    /*right: 21.875rem;
+    top: 10 0px;*/
+    right: 30%;
+    top: 25%;
 }
 
 .imgPP{
