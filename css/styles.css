@@ -57,7 +57,7 @@ h3{
 
 .container-top{
    /* padding-top: 12.5rem;*/
-   padding-top:8%;
+   padding-top:5%;
 }
 
 .container-middle{
@@ -81,7 +81,7 @@ h3{
     /*right: 21.875rem;
     top: 10 0px;*/
     right: 30%;
-    top: 25%;
+    top: 15%;
 }
 
 .imgPP{
@@ -94,6 +94,12 @@ h3{
 .imgAdapt{    
     width: 12.5rem;
     height: 12.5rem;
+    margin-top: 1.563rem;
+}
+
+.imgMountain{    
+    width: 40rem;
+    height: 25rem;
     margin-top: 1.563rem;
 }
 
