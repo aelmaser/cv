@@ -77,17 +77,18 @@ h3{
     body{
         margin: 0px;
         text-align: center;
-        background-color: blue;
+        background-color: #E4F9F5;
         font-family: verdana, sans-serif;
     }
-    h1{    
-            margin: 50px auto 0 auto;    
-            font-size: 5.625rem;
-            font-family: 'Sacramento',cursive;
+    h1 {
+        margin: 50px auto 0px auto;
+        font-size: 4.625rem;
+        font-family: 'Sacramento',cursive;
     }
         
     h2{
             font-family: 'Ubuntu',sans-serif;
+            font-size: 2.625rem;
     }
         
     h3{
@@ -96,13 +97,23 @@ h3{
     .bottom-cloud {
         position: absolute;
         left: 2.875rem;
-        bottom: 33rem;
+        bottom: 17rem;
+        width: 21%;
+        height: auto;
     }
     .top-cloud {
         position: absolute;
-        right: 3.875rem;        
+        right: 4.575rem;
+        top: 50%;
+        width: 21%;
+        height: auto;
     }
     .container-top{
-        padding-top: 3.5rem;
-    }    
+        padding-top: 3rem;
+    }
+    .imgMountain {
+        width: 96%;
+        height: 96%;
+        margin-top: 0.263rem;
+    }   
 }
